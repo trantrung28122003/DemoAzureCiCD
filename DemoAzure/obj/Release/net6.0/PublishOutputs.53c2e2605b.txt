@@ -1,0 +1,7 @@
+D:\DemoAzure\DemoAzure\obj\Release\net6.0\PubTmp\Out\DemoAzure.exe
+D:\DemoAzure\DemoAzure\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\DemoAzure\DemoAzure\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\DemoAzure\DemoAzure\obj\Release\net6.0\PubTmp\Out\DemoAzure.dll
+D:\DemoAzure\DemoAzure\obj\Release\net6.0\PubTmp\Out\DemoAzure.deps.json
+D:\DemoAzure\DemoAzure\obj\Release\net6.0\PubTmp\Out\DemoAzure.runtimeconfig.json
+D:\DemoAzure\DemoAzure\obj\Release\net6.0\PubTmp\Out\DemoAzure.pdb
